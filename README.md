@@ -1,6 +1,7 @@
 ### Hi there 👋
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:REPOSITORY-->
+SHOW_TITLE true
+<!--END_SECTION:REPOSITORY-->
 <!--
 **warden7383/warden7383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
