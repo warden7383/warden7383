@@ -1,5 +1,7 @@
 name: Work Stats Readme
-
+- name: Waka - Readme
+ uses: athul/waka-readme@v0.2.5
+            
 on:
   workflow_dispatch:
   schedule:
