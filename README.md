@@ -9,7 +9,7 @@ Hi 👋 My name is Andrew
 
 Known as warden or warden7383 online. I like to learn/try new concepts and tools that allow me to develop software in different ways.
 
-* 🧠  I'm learning Rust
+* 🧠  I'm learning C
 * ⚡  I love neovim
 
 ### Skills
