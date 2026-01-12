@@ -19,7 +19,9 @@ Known as warden or warden7383 online. I like to learn/try new concepts and tools
 </p>
 
 ### What I Daily Drive
-- //TODO
+- Editor: Neovim
+- OS: Linux (Fedora Hyprland) & MacOS
+- Terminal: Ghostty (with Tmux)
 
 ### Socials
 
