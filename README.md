@@ -3,8 +3,6 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=__warden)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=__warden)](https://github.com/anuraghazra/github-readme-stats)
-
 
 Hi 👋 My name is Andrew
 =======================
