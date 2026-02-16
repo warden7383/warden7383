@@ -42,14 +42,6 @@ jobs:
           options: username=__warden&layout=compact&theme=catppuccin_mocha&border_radius=10.0&border_color=c6a0f6
           path: profile/wakatime.svg
           token: ${{ secrets.READMEPAT }}
-
-      - name: Generate Streak Card
-        uses: denvercoder1/github-readme-streak-stats@v2
-        with:
-          card: streak
-          options: username=${{ github.repository_owner }}&theme=catppuccin-macchiato
-          path: profile/streak.svg
-          token: ${{ secrets.READMEPAT }}
       
       - name: Commit cards
         run: |
