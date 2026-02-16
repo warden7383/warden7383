@@ -3,6 +3,8 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=__warden)](https://github.com/anuraghazra/github-readme-stats)
 
+![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
 
 ![Wakatime](./profile/wakatime.svg)
