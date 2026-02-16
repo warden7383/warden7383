@@ -7,7 +7,6 @@
 
 ![Wakatime](./profile/wakatime.svg)
 
-![Top Languages]
 
 Hi 👋 My name is Andrew
 =======================
