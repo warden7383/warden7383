@@ -15,7 +15,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=catppuccin_mocha&border_radius=10.0&include_all_commits=true&
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=catppuccin_mocha&border_radius=10.0&include_all_commits=true&border_color=c6a0f6
           path: profile/stats.svg
           token: ${{ secrets.READMEPAT }}
           
@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=catppuccin_mocha&card_width=500
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=catppuccin_mocha&card_width=300&border_radius=10.0&border_color=c6a0f6&size_weight=0.5&count_weight=0.5
           path: profile/top-langs.svg
           token: ${{ secrets.READMEPAT }}
 
@@ -39,7 +39,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=__warden&layout=compact&theme=catppuccin_mocha
+          options: username=__warden&layout=compact&theme=catppuccin_mocha&border_radius=10.0&border_color=c6a0f6
           path: profile/wakatime.svg
           token: ${{ secrets.READMEPAT }}
       
