@@ -9,6 +9,7 @@
 
 ![Wakatime](./profile/wakatime.svg)
 
+![Streak](./profile/streak.svg)
 
 Hi 👋 My name is Andrew
 =======================
