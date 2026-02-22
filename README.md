@@ -36,3 +36,10 @@ Known as warden or warden7383 online. I like to learn/try new concepts and tools
 ![Top Languages](./profile/top-langs.svg)
 
 ![Streak](./profile/streak.svg)
+
+<a href="stats">
+  <img src="./profile/stats.svg" />
+</a>
+<a href="top langs">
+  <img src="./profile/top-langs.svg"/>
+</a>
