@@ -31,9 +31,6 @@ Known as warden or warden7383 online. I like to learn/try new concepts and tools
 
 <a href="https://github.com/warden7383" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warden7383&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
 
 ![Streak](./profile/streak.svg)
 
