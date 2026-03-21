@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="70.08"
+          width="70.07"
           height="8"
           fill="#555555"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="70.08"
+          x="70.07"
           y="0"
-          width="37.53"
+          width="37.56"
           height="8"
           fill="#427819"
         />
@@ -148,7 +148,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="107.61"
+          x="107.63"
           y="0"
           width="31.77"
           height="8"
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="139.38"
+          x="139.4"
           y="0"
-          width="26.9"
+          width="26.89"
           height="8"
           fill="#000080"
         />
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="166.28"
+          x="166.29000000000002"
           y="0"
           width="23.34"
           height="8"
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="189.62"
+          x="189.63000000000002"
           y="0"
-          width="22.78"
+          width="22.77"
           height="8"
           fill="#f34b7d"
         />
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="212.4"
+          x="212.40000000000003"
           y="0"
           width="20.57"
           height="8"
@@ -198,9 +198,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="232.97"
+          x="232.97000000000003"
           y="0"
-          width="17.03"
+          width="17.02"
           height="8"
           fill="#3572A5"
         />
@@ -218,7 +218,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#427819" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Makefile 15.01%
+        Makefile 15.03%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
