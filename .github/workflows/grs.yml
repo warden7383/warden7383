@@ -17,7 +17,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=catppuccin_mocha&border_radius=10.0&include_all_commits=true&border_color=c6a0f6
           path: profile/stats.svg
-          token: ${{ secrets.READMEPAT }}
+          token: ${{ secrets.READMEPAT_GHSTAT }}
           
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
