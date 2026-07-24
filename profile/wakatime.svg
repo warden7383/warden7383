@@ -441,7 +441,7 @@
             y="0"
             width="0.5115"
             height="8"
-            fill="#e38c00"
+            fill="#d1dbe0"
           />
         
           <rect
@@ -451,7 +451,7 @@
             y="0"
             width="0.5115"
             height="8"
-            fill="#858585"
+            fill="#e38c00"
           />
         
           <rect
@@ -461,7 +461,7 @@
             y="0"
             width="0.5115"
             height="8"
-            fill="#d1dbe0"
+            fill="#858585"
           />
         
           <rect
@@ -688,7 +688,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 352 hrs 14 mins
+        Lua - 352 hrs 15 mins
       </text>
     </g>
   
@@ -709,7 +709,7 @@
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 107 hrs 8 mins
+        Markdown - 107 hrs 9 mins
       </text>
     </g>
   
@@ -800,7 +800,7 @@
     <g transform="translate(25, 225)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        tmux - 14 hrs
+        tmux - 14 hrs 1 min
       </text>
     </g>
   
@@ -842,7 +842,7 @@
     <g transform="translate(25, 300)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        S - 4 hrs 41 mins
+        S - 4 hrs 45 mins
       </text>
     </g>
   
@@ -903,23 +903,23 @@
     </g>
   
     <g transform="translate(230, 400)">
+      <circle cx="5" cy="6" r="5" fill="#d1dbe0" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        INI - 1 hr 27 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 425)">
       <circle cx="5" cy="6" r="5" fill="#e38c00" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         SQL - 1 hr 26 mins
       </text>
     </g>
   
-    <g transform="translate(25, 425)">
+    <g transform="translate(230, 425)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         ca65 assembler - 1 hr 26 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 425)">
-      <circle cx="5" cy="6" r="5" fill="#d1dbe0" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        INI - 1 hr 25 mins
       </text>
     </g>
   
