@@ -908,7 +908,7 @@
     <g transform="translate(25, 400)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        zsh - 1 hr 42 mins
+        zsh - 1 hr 44 mins
       </text>
     </g>
   
