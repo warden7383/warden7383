@@ -170,7 +170,7 @@
           data-testid="lang-progress"
           x="163.52"
           y="0"
-          width="26.71"
+          width="26.73"
           height="8"
           fill="#000080"
         />
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="190.23000000000002"
+          x="190.25"
           y="0"
           width="23.27"
           height="8"
@@ -188,7 +188,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="213.50000000000003"
+          x="213.52"
           y="0"
           width="22.19"
           height="8"
@@ -198,7 +198,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="235.69000000000003"
+          x="235.71"
           y="0"
           width="14.3"
           height="8"
@@ -225,7 +225,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#427819" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Makefile 15.19%
+        Makefile 15.18%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
@@ -253,7 +253,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 8.88%
+        Python 8.87%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
